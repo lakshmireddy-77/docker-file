@@ -10,3 +10,5 @@ managedNodeGroups:
     instanceTypes: ["m5.large", "c3.large","c4.large","c5.large"]
     desiredCapacity: 3
     spot: true
+  
+# create eks cluster with name roboshop and region os us-east-1
